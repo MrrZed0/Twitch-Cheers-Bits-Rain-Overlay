@@ -1,5 +1,10 @@
 Twitch Cheers/Bits Rain Overlay For OBS-Studio & StreamLabs OBS
 
+-------------------------------------------
+Twitch Cheer/Bits Rain Overlay Video Guide:
+-------------------------------------------
+https://youtu.be/noGkAlclGk0
+
 ------------
 Requirements
 ------------
